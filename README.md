@@ -3,6 +3,8 @@
 ## Starting the App
 
 ```
+git clone git@github.com:FalloutX/maxt-react.git maxt
+cd maxt
 npm install
 node server.js
 Then go to localhost:3000/
