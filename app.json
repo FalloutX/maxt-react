@@ -1,0 +1,12 @@
+{
+  "name": "Max T React",
+  "description": "Github Issue Tracking",
+  "keywords": [ "react", "reactjs", "express" ],
+  "repository": "https://github.com/FalloutX/maxt-react.git",
+  "logo": "https://facebook.github.io/react/img/logo.svg",
+  "website": "http://facebook.github.io/react/docs/tutorial.html",
+  "success_url": "/",
+  "env" : {
+    "BUILDPACK_URL": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+  }
+}

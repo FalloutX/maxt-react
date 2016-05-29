@@ -1,0 +1,20 @@
+.main-heading {
+  margin: 20px;
+  text-align: center;
+}
+.not-found {
+  margin-top:20px;
+  padding: 10px;
+  text-align: center;
+  text-decoration: bold;
+  color: red;
+}
+
+.form-group label {
+  margin: 10px;
+}
+
+.form-group input{
+  margin: 10px;
+  size: 140;
+}
